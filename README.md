@@ -11,3 +11,10 @@
 - [Sorting Visualizer][3], a sorting algorithm visualizer. _Latest: version 3_
 - [Render Engine][4], a 3D rendering engine. _In development_
 
+## About Me
+* I am a 9th grader in California.
+* I enjoy coding and working in Blender.
+* I am currently learning Generative Adversarial Networks.
+* I like Python and C/C++
+* I don't like Java or Javascript
+
