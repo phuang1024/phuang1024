@@ -2,6 +2,8 @@
 [2]: https://github.com/HuangPatrick16777216/video_call
 [3]: https://github.com/HuangPatrick16777216/sorting_visualizer
 [4]: https://github.com/HuangPatrick16777216/render_engine
+[5]: https://github.com/Spatial-Innovations/ChessEngine
+[6]: https://github.com/HuangPatrick16777216/video_call
 
 # Hello
 
@@ -18,3 +20,7 @@
 * I like Python and C/C++
 * I don't like Java or Javascript
 
+## Commit Records
+* Max contributions in one day: tobewritten on Jan 29, 2021
+* Most commited repository: [Chess Engines][5]
+* Most commited repository owned by me: [Video Call][6]
