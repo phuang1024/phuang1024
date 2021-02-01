@@ -8,7 +8,7 @@
 
 # Hello
 
-## Projects
+## Big Projects
 * [Piano Vis][1], a piano video exporter. _Latest: v0.2.0_
 * [Video Call][2], a video call application. _In development_
 * [Sorting Visualizer][3], a sorting algorithm visualizer. _Latest: v3_
