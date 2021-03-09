@@ -1,7 +1,7 @@
 # Hello
 
 ## Projects
-* [Megalodon][megalodon], a UCI chess engine. _Latest: In development_
+* [Megalodon][megalodon], a UCI chess engine. _Latest: v0.0.3 (Pre-release)_
 * [Piano Vis][pianovis], a piano video exporter. _Latest: v0.2.0_
 * [Sorting Visualizer][sortvis], a sorting algorithm visualizer. _Latest: v3_
 
