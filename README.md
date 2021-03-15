@@ -14,4 +14,4 @@
 
 [pianovis]: https://github.com/HuangPatrick16777216/piano_vis
 [sortvis]: https://github.com/HuangPatrick16777216/sorting_visualizer
-[megalodon]: https://github.com/HuangPatrick16777216/megalodon
+[megalodon]: https://github.com/megalodon-chess/megalodon
