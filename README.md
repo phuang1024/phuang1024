@@ -2,6 +2,7 @@
 
 ## Projects
 * [Megalodon][megalodon], a UCI chess engine.
+* [Dog][dog], similar to Unix cat, but with syntax highlighting.
 * [Video Editor][video], a video editor with a Python API.
 * [Piano Vis][pianovis], a piano video exporter.
 * [Sorting Visualizer][sortvis], a sorting algorithm visualizer.
@@ -17,3 +18,4 @@
 [sortvis]: https://github.com/HuangPatrick16777216/sorting_visualizer
 [megalodon]: https://github.com/HuangPatrick16777216/megalodon
 [video]: https://github.com/HuangPatrick16777216/video_editor
+[dog]: https://github.com/HuangPatrick16777216/dog
