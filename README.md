@@ -2,8 +2,8 @@
 
 ## Projects
 * [Megalodon][megalodon], a UCI chess engine.
+* [Pymixer][video], a video editor with a Python API.
 * [Dog][dog], similar to Unix cat, but with syntax highlighting.
-* [Video Editor][video], a video editor with a Python API.
 * [Piano Vis][pianovis], a piano video exporter.
 * [Sorting Visualizer][sortvis], a sorting algorithm visualizer.
 
