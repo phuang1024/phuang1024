@@ -1,5 +1,8 @@
 # Hello
 
+[![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=huangpatrick16777216)](https://github.com/huangpatrick16777216)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huangpatrick16777216)
+
 ## Projects
 * [Piano Video][pianovid], a piano video exporter.
 * [Megalodon][megalodon], a UCI chess engine.
