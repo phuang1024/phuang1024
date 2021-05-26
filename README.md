@@ -14,7 +14,7 @@
 * I am a 9th grader in California.
 * I enjoy coding (obviously)
 * I like Python and C/C++
-* I like GNU, Linux, and open source projects.
+* I like GNU, Linux, and free projects (free in both freedom and price).
 * I don't like Java or Javascript.
 * I am approximately 1400 on Lichess.
 * I am level 10 advanced MTAC piano.
