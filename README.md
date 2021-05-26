@@ -12,7 +12,7 @@
 
 ## About Me
 * I am a 9th grader in California.
-* I enjoy coding and working in Blender.
+* I enjoy coding (obviously)
 * I like Python and C/C++
 * I like GNU, Linux, and open source projects.
 * I don't like Java or Javascript.
