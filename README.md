@@ -6,6 +6,8 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=huangpatrick16777216)
 
+![Views](https://komarev.com/ghpvc/?username=HuangPatrick16777216)
+
 ## Projects
 * [Piano Video][pianovid], a piano video exporter.
 * [Megalodon][megalodon], a UCI chess engine.
