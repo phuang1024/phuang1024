@@ -20,7 +20,7 @@
 * I enjoy coding (obviously)
 * I like Python and C/C++
 * I like GNU, Linux, and free projects (free in both freedom and price).
-* I don't like Java or Javascript.
+* I don't like Java.
 * I am approximately 1400 on Lichess.
 * I am level 10 advanced MTAC piano.
 
