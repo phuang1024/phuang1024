@@ -6,7 +6,7 @@
 
 ![Views](https://komarev.com/ghpvc/?username=HuangPatrick16777216)
 
-## Projects
+## Large Projects
 * [Piano Video][pianovid], a piano video exporter.
 * [Megalodon][megalodon], a UCI chess engine.
 * [East][east], a library that parses languages into ASTs for Python.
