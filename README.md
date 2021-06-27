@@ -7,10 +7,10 @@
 ![Views](https://komarev.com/ghpvc/?username=HuangPatrick16777216)
 
 ## Large Projects
-* [Piano Video][pianovid], a piano video exporter.
-* [Megalodon][megalodon], a UCI chess engine.
-* [East][east], a library that parses languages into ASTs for Python.
-* [Dog][dog], similar to Unix cat, but with syntax highlighting.
+* [Piano Video][pianovid], a piano performance visualizer.
+* [Megalodon][megalodon], a UCI compatible chess engine.
+* [East][east], a library that parses various languages into ASTs for Python.
+* [Dog][dog], a file printer with syntax highlighting.
 * [Sorting Visualizer][sortvis], a sorting algorithm visualizer.
 
 ## About Me
