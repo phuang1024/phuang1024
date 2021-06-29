@@ -1,8 +1,8 @@
 # Hello
 
-[![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=huangpatrick16777216)](https://github.com/huangpatrick16777216)
+[![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=huangpatrick16777216&theme=dark)](https://github.com/huangpatrick16777216)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=huangpatrick16777216)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=huangpatrick16777216&theme=dark)
 
 ![Views](https://komarev.com/ghpvc/?username=HuangPatrick16777216)
 
