@@ -1,10 +1,13 @@
 # Hello
 
-[![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=huangpatrick16777216&theme=dark)](https://github.com/huangpatrick16777216)
+[![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=phuang1024&theme=dark)](https://github.com/phuang1024)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=huangpatrick16777216&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=phuang1024&theme=dark)
 
-![Views](https://komarev.com/ghpvc/?username=HuangPatrick16777216)
+![Views](https://komarev.com/ghpvc/?username=phuang1024)
+
+I have recently changed my username (HuangPatrick16777216 to phuang1024),
+so some links may not work.
 
 ## Large Projects
 * [Piano Video][pianovid], a piano performance visualizer.
@@ -22,9 +25,9 @@
 * I am approximately 1400 on Lichess.
 * I am level 10 advanced MTAC piano.
 
-[pianovid]: https://github.com/HuangPatrick16777216/piano_video
-[sortvis]: https://github.com/HuangPatrick16777216/sorting_visualizer
-[megalodon]: https://github.com/HuangPatrick16777216/megalodon
-[video]: https://github.com/HuangPatrick16777216/video_editor
-[dog]: https://github.com/HuangPatrick16777216/dog
-[east]: https://github.com/HuangPatrick16777216/python-east
+[pianovid]: https://github.com/phuang1024/piano_video
+[sortvis]: https://github.com/phuang1024/sorting_visualizer
+[megalodon]: https://github.com/phuang1024/megalodon
+[video]: https://github.com/phuang1024/video_editor
+[dog]: https://github.com/phuang1024/dog
+[east]: https://github.com/phuang1024/python-east
