@@ -4,8 +4,6 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=phuang1024&theme=dark)
 
-![Views](https://komarev.com/ghpvc/?username=phuang1024)
-
 I have recently changed my username (HuangPatrick16777216 to phuang1024),
 so some links may not work.
 
