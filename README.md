@@ -4,8 +4,7 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=phuang1024&theme=dark)
 
-I have recently changed my username (HuangPatrick16777216 to phuang1024),
-so some links may not work.
+**I have recently changed my username, so some links may not work.**
 
 ## Large Projects
 * [Piano Video][pianovid], a piano performance visualizer.
