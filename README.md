@@ -19,8 +19,7 @@
 * I like Python and C/C++
 * I like GNU, Linux, and free projects (free in both freedom and price).
 * I don't like Java.
-* I am approximately 1400 on Lichess.
-* I am level 10 advanced MTAC piano.
+* I passed level 10 advanced MTAC piano in 2021.
 
 [pianovid]: https://github.com/phuang1024/piano_video
 [sortvis]: https://github.com/phuang1024/sorting_visualizer
