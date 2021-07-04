@@ -1,8 +1,10 @@
 # Hello
 
-[![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=phuang1024&theme=dark)](https://github.com/phuang1024)
+![](https://github-readme-stats.vercel.app/api?username=phuang1024&theme=dark)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=phuang1024&theme=dark)
+![](https://github-readme-streak-stats.herokuapp.com/?user=phuang1024&theme=dark)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=phuang1024&theme=dark)
 
 **I have recently changed my username, so some links may not work.**
 
