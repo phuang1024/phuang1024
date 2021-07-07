@@ -6,6 +6,8 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=phuang1024&theme=dark)
 
+![](https://komarev.com/ghpvc/?username=phuang1024)
+
 **I have recently changed my username, so some links may not work.**
 
 ## Large Projects
