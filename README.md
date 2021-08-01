@@ -10,9 +10,6 @@
 
 **I have recently changed my username, so some links may not work.**
 
-I am currently contributing to [Blender](https://blender.org), a free 3D creation software,
-which is why some of my projects will be more inactive than usual.
-
 ## Large Projects
 * [Piano Video][pianovid], a piano performance visualizer.
 * [Megalodon][megalodon], a UCI compatible chess engine.
