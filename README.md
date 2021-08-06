@@ -26,9 +26,15 @@
 * I don't like Java.
 * I passed level 10 advanced MTAC piano in 2021.
 
+## Other
+
+* In need of Piano sheet music? Check out my [collection of CC0 sheet music][smusic] (don't have a domain name yet).
+
 [pianovid]: https://github.com/phuang1024/piano_video
 [sortvis]: https://github.com/phuang1024/sorting_visualizer
 [megalodon]: https://github.com/phuang1024/megalodon
 [video]: https://github.com/phuang1024/video_editor
 [dog]: https://github.com/phuang1024/dog
 [east]: https://github.com/phuang1024/python-east
+
+[smusic]: http://18.144.147.157:2001
