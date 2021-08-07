@@ -29,6 +29,7 @@
 ## Other
 
 * In need of Piano sheet music? Check out my [collection of CC0 sheet music][smusic] (don't have a domain name yet).
+* Free software refers to freedom. Check out Gnu's philosiphy [here][gnu].
 
 [pianovid]: https://github.com/phuang1024/piano_video
 [sortvis]: https://github.com/phuang1024/sorting_visualizer
@@ -38,3 +39,4 @@
 [east]: https://github.com/phuang1024/python-east
 
 [smusic]: http://18.144.147.157:2001
+[gnu]: https://gnu.org
