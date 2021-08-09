@@ -22,7 +22,7 @@
 * I enjoy coding (obviously)
 * I am currently a Silver competitor in the USACO.
 * I like Python and C/C++
-* I like GNU, Linux, and free projects (free in both freedom and price).
+* I like GNU, Linux, and free projects (freedom).
 * I don't like Java.
 * I passed level 10 advanced MTAC piano in 2021.
 
