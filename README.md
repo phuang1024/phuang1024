@@ -12,7 +12,7 @@
 
 ## Large Projects
 * [Piano Video][pianovid], a piano performance visualizer.
-* [Megalodon][megalodon], a UCI compatible chess engine.
+* [Megalodon][megalodon], a UCI compatible chess engine. Co-developed with @ArjunSahlot
 * [East][east], a library that parses various languages into ASTs for Python.
 * [Dog][dog], a file printer with syntax highlighting.
 * [Sorting Visualizer][sortvis], a sorting algorithm visualizer.
@@ -33,7 +33,7 @@
 
 [pianovid]: https://github.com/phuang1024/piano_video
 [sortvis]: https://github.com/phuang1024/sorting_visualizer
-[megalodon]: https://github.com/phuang1024/megalodon
+[megalodon]: https://github.com/megalodon-chess/megalodon
 [video]: https://github.com/phuang1024/video_editor
 [dog]: https://github.com/phuang1024/dog
 [east]: https://github.com/phuang1024/python-east
