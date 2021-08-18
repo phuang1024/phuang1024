@@ -27,6 +27,7 @@
 * I like GNU, Linux, and free projects (freedom).
 * I don't like Java.
 * I passed level 10 advanced MTAC piano in 2021.
+* I am currently practicing Chopin's Etude Op. 25 No. 6
 
 ## Other
 
