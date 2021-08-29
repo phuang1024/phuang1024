@@ -33,6 +33,7 @@
 
 * In need of Piano sheet music? Check out my [collection of CC0 sheet music][smusic] (don't have a domain name yet).
 * Free software refers to freedom. Check out GNU's philosiphy [here][gnu].
+* [Software I use](/software.md)
 
 [pianovid]: https://github.com/phuang1024/piano_video
 [sortvis]: https://github.com/phuang1024/sorting_visualizer
