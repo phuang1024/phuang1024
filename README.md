@@ -15,9 +15,6 @@
 ## Large Projects
 * [Piano Video][pianovid], a piano performance visualizer.
 * [Megalodon][megalodon], a UCI compatible chess engine. Co-developed with @ArjunSahlot
-* [East][east], a library that parses various languages into ASTs for Python.
-* [Dog][dog], a file printer with syntax highlighting.
-* [Sorting Visualizer][sortvis], a sorting algorithm visualizer.
 
 ## About Me
 * I am a 10th grader in California, USA.
