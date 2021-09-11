@@ -9,3 +9,7 @@
 * Audio Editing: [Audacity](https://audacityteam.org)
 * Image Editing: [GIMP](https://gimp.org)
 * Video Editing: [Kdenlive](https://kdenlive.org)
+
+I recommend you switch to these software (or other free software).
+All of these are much higher quality than the nonfree variants, in my experience.
+Don't be fooled by the marketing schemes the proprietary developers use.
