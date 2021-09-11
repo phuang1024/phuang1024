@@ -23,8 +23,7 @@
 * I like Python and C/C++
 * I like GNU, Linux, and free projects (freedom).
 * I don't like Java.
-* I passed level 10 advanced MTAC piano in 2021.
-* I am currently practicing [these piano pieces](/piano.md)
+* I enjoy [playing piano](/piano.md)
 
 ## Other
 
