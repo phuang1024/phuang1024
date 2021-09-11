@@ -24,7 +24,7 @@
 * I like GNU, Linux, and free projects (freedom).
 * I don't like Java.
 * I passed level 10 advanced MTAC piano in 2021.
-* I am currently practicing Mazeppa (Transcendental Etude 4) by Liszt, Chopin's Heroic Polonaise, and more.
+* I am currently practicing [these piano pieces](/piano.md)
 
 ## Other
 
