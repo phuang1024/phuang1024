@@ -22,7 +22,7 @@
 * I am currently a Silver competitor in the USACO.
 * I like Python and C/C++
 * I like GNU, Linux, and free projects (freedom).
-* I don't like Java.
+* I don't like Java. See [here](/no_java.md) for reasons.
 * I enjoy [playing piano](/piano.md)
 
 ## Other
