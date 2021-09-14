@@ -13,12 +13,12 @@
 **Currently in a school year, so projects may be less active.**
 
 ## Large Projects
-* [Piano Video][pianovid], a piano performance visualizer.
-* [Megalodon][megalodon], a UCI compatible chess engine. Co-developed with @ArjunSahlot
+* [Piano Video][pianovid], a piano performance visualizer written in mostly Python with C++ for performance critical components.
+* [Megalodon][megalodon], a UCI compatible chess engine written in C++. Plays at around 1600 ELO on Lichess.
 
 ## About Me
 * I am a 10th grader in California, USA.
-* I enjoy coding (obviously)
+* I enjoy coding and contemplating the universe.
 * I am currently a Silver competitor in the USACO.
 * I like Python and C/C++
 * I like GNU, Linux, and free projects (freedom).
