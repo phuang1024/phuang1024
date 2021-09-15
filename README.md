@@ -4,7 +4,7 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=phuang1024&theme=dark)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=phuang1024&theme=dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=phuang1024&theme=dark&layout=compact)
 
 ![](https://komarev.com/ghpvc/?username=phuang1024)
 
