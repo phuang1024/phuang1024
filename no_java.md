@@ -9,7 +9,7 @@
 * Everything must be a class. A class defines the memory layout of an abstract concept,
   optionally with functions that are tied to the class (methods). If you need to group
   members together, a namespace is more intuitive, rather than a class.
-* Java is less flexible. If you need speed, use C++, which provides more features. If
+* Java is less flexible. If you need speed, use C++, which also provides more features. If
   you need pre-written libraries, use Python.
 
 If you are in a course which teaches Java, I highly recommend you learn C++ and/or Python
