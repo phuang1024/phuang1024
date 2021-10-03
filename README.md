@@ -27,9 +27,8 @@
 
 ## Other
 
-* In need of Piano sheet music? Check out my [collection of CC0 sheet music][smusic] (don't have a domain name yet).
-* Free software refers to freedom. Check out GNU's philosophy [here][gnu].
-* [Software I use](/software.md)
+* Free software refers to freedom. Check out GNU's philosophy [here][gnu]. [Examples of free software](/software.md)
+* [Scarbo](https://youtu.be/8fcy2X06VH4?t=477)
 
 [pianovid]: https://github.com/phuang1024/piano_video
 [sortvis]: https://github.com/phuang1024/sorting_visualizer
