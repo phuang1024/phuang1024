@@ -8,11 +8,10 @@
 
 ![](https://komarev.com/ghpvc/?username=phuang1024)
 
-**I have recently changed my username, so some links may not work.**
-
 **Currently in a school year, so projects may be less active.**
 
 ## Large Projects
+* [Termvideo][termvideo], a utility for playing videos in the terminal.
 * [Piano Video][pianovid], a piano performance visualizer written in mostly Python with C++ for performance critical components.
 * [Megalodon][megalodon], a UCI compatible chess engine written in C++. Plays at around 1600 ELO on Lichess.
 
@@ -30,6 +29,7 @@
 * Free software refers to freedom. Check out GNU's philosophy [here][gnu]. [Examples of free software](/software.md)
 * [Scarbo](https://youtu.be/8fcy2X06VH4?t=477)
 
+[termvideo]: https://github.com/phuang1024/termvideo
 [pianovid]: https://github.com/phuang1024/piano_video
 [sortvis]: https://github.com/phuang1024/sorting_visualizer
 [megalodon]: https://github.com/megalodon-chess/megalodon
