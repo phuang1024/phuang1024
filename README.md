@@ -23,6 +23,7 @@
 * I like GNU, Linux, and free projects (freedom).
 * I don't like Java. See [here](/no_java.md) for reasons.
 * I enjoy [playing piano](/piano.md)
+* I use VIM keybindings when available.:wq
 
 ## Other
 
