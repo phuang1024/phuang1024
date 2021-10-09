@@ -8,8 +8,6 @@
 
 ![](https://komarev.com/ghpvc/?username=phuang1024)
 
-**Currently in a school year, so projects may be less active.**
-
 ## Large Projects
 * [Termvideo][termvideo], a utility for playing videos in the terminal.
 * [Piano Video][pianovid], a piano performance visualizer written in mostly Python with C++ for performance critical components.
