@@ -16,5 +16,6 @@ I am practicing these pieces:
 * Chopin: Ballade No. 1
 * Chopin: Ballade No. 4
 * Chopin: Heroic Polonaise
-* Liszt: Mazeppa (Transcendental Etude No. 4)
-* Rachmaninoff: Prelude in G Minor
+* Chopin: Etude Op. 10 No. 5
+* Chopin: Etude Op. 10 No. 12
+* Liszt: La Campanella
