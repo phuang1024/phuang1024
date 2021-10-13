@@ -9,9 +9,9 @@
 ![](https://komarev.com/ghpvc/?username=phuang1024)
 
 ## Cool Projects
+* [Swordfish][swordfish], a chess playing engine with portable libraries.
 * [Termvideo][termvideo], a utility for playing videos in the terminal.
 * [Piano Video][pianovid], a piano performance visualizer written in mostly Python with C++ for performance critical components.
-* [Megalodon][megalodon], a UCI compatible chess engine written in C++. Plays at around 1600 ELO on Lichess.
 
 ## About Me
 * I am a 10th grader in California, USA.
@@ -28,13 +28,8 @@
 * Free software refers to freedom. Check out GNU's philosophy [here][gnu].
 * [Scarbo](https://youtu.be/8fcy2X06VH4?t=477)
 
+[swordfish]: https://github.com/phuang1024/swordfish
 [termvideo]: https://github.com/phuang1024/termvideo
 [pianovid]: https://github.com/phuang1024/piano_video
-[sortvis]: https://github.com/phuang1024/sorting_visualizer
-[megalodon]: https://github.com/megalodon-chess/megalodon
-[video]: https://github.com/phuang1024/video_editor
-[dog]: https://github.com/phuang1024/dog
-[east]: https://github.com/phuang1024/python-east
 
-[smusic]: http://18.144.147.157:2001
 [gnu]: https://gnu.org
