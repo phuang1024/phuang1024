@@ -19,3 +19,7 @@ I am practicing these pieces:
 * Chopin: Etude Op. 10 No. 5
 * Chopin: Etude Op. 10 No. 12
 * Liszt: La Campanella
+
+## Completed Pieces
+
+Significant pieces that I have mastered.
