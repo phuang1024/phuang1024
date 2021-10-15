@@ -26,7 +26,7 @@
 ## Other
 
 * Free software refers to freedom. Check out GNU's philosophy [here][gnu].
-* [Scarbo](https://youtu.be/8fcy2X06VH4?t=477)
+* [Scarbo](https://youtu.be/8fcy2X06VH4?t=477), one of the best piano pieces (I am not joking).
 
 [swordfish]: https://github.com/phuang1024/swordfish
 [termvideo]: https://github.com/phuang1024/termvideo
