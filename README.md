@@ -10,7 +10,7 @@
 
 ## Cool Projects
 * [Swordfish][swordfish], a chess playing engine with portable libraries.
-* [Termvideo][termvideo], a utility for playing videos in the terminal.
+* [Termvideo][termvideo], a shell utility for playing videos in the terminal.
 * [Piano Video][pianovid], a piano performance visualizer written in mostly Python with C++ for performance critical components.
 
 ## About Me
