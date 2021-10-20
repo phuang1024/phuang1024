@@ -23,3 +23,5 @@ I am practicing these pieces:
 ## Completed Pieces
 
 Significant pieces that I have mastered.
+
+* Chopstix
