@@ -10,7 +10,7 @@
 
 ## Cool Projects
 * [Swordfish][swordfish], a chess playing engine with portable libraries.
-* [Termvideo][termvideo], a shell utility for playing videos in the terminal.
+* [FFTerm][ffterm], a shell utility for viewing media in the terminal.
 * [Piano Video][pianovid], a piano performance visualizer written in mostly Python with C++ for performance critical components.
 
 ## About Me
@@ -29,7 +29,7 @@
 * [Scarbo](https://youtu.be/8fcy2X06VH4?t=477), one of the best piano pieces (I am not joking).
 
 [swordfish]: https://github.com/phuang1024/swordfish
-[termvideo]: https://github.com/phuang1024/termvideo
+[ffterm]: https://github.com/phuang1024/ffterm
 [pianovid]: https://github.com/phuang1024/piano_video
 
 [gnu]: https://gnu.org
