@@ -13,11 +13,8 @@ my teachers.
 
 I am practicing these pieces:
 
-* Chopin: Ballade No. 4
-* Chopin: Heroic Polonaise (Op. 53)
 * Liszt: Un Sospiro
 * Chopin: Etude Op. 10 No. 5
-* Chopin: Etude Op. 10 No. 12
 * Mozart: Piano Sonata No. 8
 
 ## Completed Pieces
