@@ -17,8 +17,11 @@ I am practicing these pieces:
 * Chopin: Etude Op. 10 No. 5
 * Mozart: Piano Sonata No. 8
 
-## Completed Pieces
+Pieces I will practice in the future:
 
-Significant pieces that I have mastered.
+* Schubert/Liszt: Standchen
+* Ravel: Gaspard de la Nuit
+
+Significant pieces that I have mastered:
 
 * Chopstix
