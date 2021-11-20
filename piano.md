@@ -16,11 +16,13 @@ I am practicing these pieces:
 * Liszt: Un Sospiro
 * Chopin: Etude Op. 10 No. 5
 * Mozart: Piano Sonata No. 8
+* Chopin: Ballade 4
 
 Pieces I will practice in the future:
 
 * Schubert/Liszt: Standchen
 * Ravel: Gaspard de la Nuit
+* Chopin: Ballade 1
 
 Significant pieces that I have mastered:
 
