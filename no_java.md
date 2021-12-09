@@ -4,8 +4,8 @@
   how the developers are not willing to add new features.
 * Java is slow. In my tests, it runs 2-3x slower than C++. This is a big difference,
   and can mean running for a whole workday rather than a few hours.
-* Java lacks useful features. There are no pointers, references, or low level operations
-  in Java. It is even missing unsigned integer types!
+* Java lacks useful features. There is no control of pointers, references, and there
+  are no low level operations in Java. It is even missing unsigned integer types!
 * Everything must be a class. A class defines the memory layout of an abstract concept,
   optionally with functions that are tied to the class (methods). If you need to group
   members together, a namespace is more intuitive, rather than a class.
