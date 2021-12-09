@@ -1,4 +1,4 @@
-# Software I Use
+# Good Software
 
 * Operating System: [Ubuntu](https://ubuntu.com) (GNU/Linux)
 * Text Editor: [VSCode](https://code.visualstudio.com)
