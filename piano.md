@@ -15,6 +15,7 @@ I am practicing these pieces:
 
 * Liszt: Un Sospiro
 * Chopin: Etude Op. 10 No. 5
+* Chopin: Etude Op. 25 No. 6
 * Mozart: Piano Sonata No. 8
 * Chopin: Ballade 4
 
