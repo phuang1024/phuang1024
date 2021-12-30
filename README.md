@@ -9,6 +9,7 @@
 ![](https://komarev.com/ghpvc/?username=phuang1024)
 
 ## Cool Projects
+* (Private Project), something to do with robotics. Hopefully going public within 1 month.
 * [Swordfish][swordfish], a chess playing engine with portable libraries.
 * [FFTerm][ffterm], a shell utility for viewing media in the terminal.
 * [Piano Video][pianovid], a piano performance visualizer written in mostly Python with C++ for performance critical components.
