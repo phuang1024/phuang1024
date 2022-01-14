@@ -11,7 +11,7 @@
 ## Cool Projects
 * [Swordfish][swordfish], a chess playing engine with portable libraries.
 * [FFTerm][ffterm], a shell utility for viewing media in the terminal.
-* [Piano Video][pianovid], a piano performance visualizer written in mostly Python with C++ for performance critical components.
+* [Piano Video][pianovid], a piano performance visualizer.
 
 ## About Me
 * I am a 10th grader in California, USA.
