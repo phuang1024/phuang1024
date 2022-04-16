@@ -1,17 +1,10 @@
 # Hello
 
-![](https://github-readme-stats.vercel.app/api?username=phuang1024&theme=dark)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=phuang1024&theme=dark)
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=phuang1024&theme=dark&layout=compact)
 
-![](https://komarev.com/ghpvc/?username=phuang1024)
-
 ## Cool Projects
-* [Swordfish][swordfish], a chess playing engine with portable libraries.
+* [Shadowmap][shadowmap], a shadow map rendering engine.
 * [FFTerm][ffterm], a shell utility for viewing media in the terminal.
-* [Piano Video][pianovid], a piano performance visualizer.
 
 ## About Me
 * I am a 10th grader in California, USA.
@@ -26,10 +19,9 @@
 ## Other
 
 * Free software refers to freedom. Check out GNU's philosophy [here][gnu].
-* [Scarbo](https://youtu.be/8fcy2X06VH4?t=477), one of the best piano pieces (I am not joking).
+* [Scarbo](https://youtu.be/8fcy2X06VH4?t=477), one of the best piano pieces.
 
-[swordfish]: https://github.com/phuang1024/swordfish
+[shadowmap]: https://github.com/phuang1024/shadowmap
 [ffterm]: https://github.com/phuang1024/ffterm
-[pianovid]: https://github.com/phuang1024/piano_video
 
 [gnu]: https://gnu.org
