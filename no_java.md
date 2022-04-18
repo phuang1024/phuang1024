@@ -8,7 +8,7 @@
   are no low level operations in Java. It is even missing unsigned integer types!
 * Everything must be a class. A class defines the memory layout of an abstract concept,
   optionally with functions that are tied to the class (methods). If you need to group
-  members together, a namespace is more intuitive, rather than a class.
+  members together, use a namespace instead of a class to be clear about your purpose.
 * Java is not flexible. Some people use Java to make non speed critical programs.
   In those cases, one thing most programmers are looking for is development speed,
   or ease of usage. Java is not suitable for this because it requires static typing,
