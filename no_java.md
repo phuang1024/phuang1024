@@ -1,11 +1,11 @@
 # Why You Shouldn't Use Java
 
-* Java copied all syntax from C++. Although this does not make it bad, it shows
-  how the developers are not willing to add new features.
 * Java is slow. In my tests, it runs 2-3x slower than C++. This is a big difference,
   and can mean running for a whole workday rather than a few hours.
-* Java lacks useful features. There is no control of pointers, references, and there
-  are no low level operations in Java. It is even missing unsigned integer types!
+* Java lacks useful features. There is no memory management, and there are no low level
+  operations in Java. It is even missing unsigned integer types! Java copied most of
+  C++ syntax, but designed the language to be high level. If the purpose and features
+  don't match, the language will not succeed.
 * Everything must be a class. A class defines the memory layout of an abstract concept,
   optionally with functions that are tied to the class (methods). If you need to group
   members together, use a namespace instead of a class to be clear about your purpose.
