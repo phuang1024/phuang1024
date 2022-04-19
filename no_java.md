@@ -53,4 +53,4 @@ tests should assume knowledge of programming languages, and should test algorith
 USACO.
 
 However, this is unlikely to change in the future, similar to how an API cannot be changed
-once many people start using it. The only solution is to study beyond the AP CS curriculum.
+once many people start using it. The only solution is to self study beyond the AP CS curriculum.
