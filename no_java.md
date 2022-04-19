@@ -38,3 +38,12 @@ I don't know, but here are my guesses.
   easy to manage, and is good for beginner programmers.
 * Some historical reason. Maybe Java seemed like a good choice when schools first decided
   what programming language they were going to use.
+
+## Advanced Placement (AP) computer science
+
+I believe that the curriculum for APCS can be improved. APCS A focuses on the Java language
+and being able to read basic code. APCS B focuses on data structures.
+
+"Computer science" is a very broad term, just like "math". There are different math courses,
+such as calculus, stats, linear algebra, etc. Each one focuses on a specific branch of
+study in math. (i will finish writing this later)
