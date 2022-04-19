@@ -1,4 +1,4 @@
-# Why You Shouldn't Use Java
+## Why Java is a mediocre programming language
 
 * Java is slow. In my tests, it runs 2-3x slower than C++. This is a big difference,
   and can mean running for a whole workday rather than a few hours.
@@ -9,6 +9,7 @@
 * Everything must be a class. A class defines the memory layout of an abstract concept,
   optionally with functions that are tied to the class (methods). If you need to group
   members together, use a namespace instead of a class to be clear about your purpose.
+  Depending on the implementation, this may even reduce overhead.
 * Java is not flexible. Some people use Java to make non speed critical programs.
   In those cases, one thing most programmers are looking for is development speed,
   or ease of usage. Java is not suitable for this because it requires static typing,
@@ -25,3 +26,15 @@
 
 If you are in a course which teaches Java, I highly recommend you learn C++ and/or Python
 on the side so you finish the class with useful skills.
+
+## Why do schools use Java as an introductory language?
+
+I don't know, but here are my guesses.
+
+* Java is an extremely organized language. As stated previously, this is so extreme that
+  it makes the language very limited. However, it is useful for teaching concepts like
+  OOP and good development habits.
+* Java is easy to set up. Modern code editors like VSCode have features that make Java code
+  easy to manage, and is good for beginner programmers.
+* Some historical reason. Maybe Java seemed like a good choice when schools first decided
+  what programming language they were going to use.
