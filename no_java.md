@@ -46,4 +46,11 @@ and being able to read basic code. APCS B focuses on data structures.
 
 "Computer science" is a very broad term, just like "math". There are different math courses,
 such as calculus, stats, linear algebra, etc. Each one focuses on a specific branch of
-study in math. (i will finish writing this later)
+study in math. However, we see CS A, CS B, etc. An ideal set of AP CS courses should test
+advanced concepts and assume that the individuals already know the basic concepts. Just like
+how math AP courses start at calculus and assume knowledge of algebra and arithmetic, AP CS
+tests should assume knowledge of programming languages, and should test algorithms, like
+USACO.
+
+However, this is unlikely to change in the future, similar to how an API cannot be changed
+once many people start using it. The only solution is to study beyond the AP CS curriculum.
