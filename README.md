@@ -3,6 +3,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=phuang1024&theme=dark&layout=compact)
 
 ## Cool Projects
+* [PianoRay][pianoray], a piano performance visualizer.
 * [Shadowmap][shadowmap], a shadow map rendering engine.
 * [FFTerm][ffterm], a shell utility for viewing media in the terminal.
 
@@ -15,12 +16,14 @@
 * I don't like Java. See [here](/no_java.md) for reasons.
 * I enjoy playing piano.
 * I use VIM keybindings when available.:wq
+* I use Ubuntu and Arch Linux.
 
 ## Other
 
 * Free software refers to freedom. Check out GNU's philosophy [here][gnu].
 * [Scarbo](https://youtu.be/8fcy2X06VH4?t=477), one of the best piano pieces.
 
+[pianoray]: https://github.com/phuang1024/pianoray
 [shadowmap]: https://github.com/phuang1024/shadowmap
 [ffterm]: https://github.com/phuang1024/ffterm
 
