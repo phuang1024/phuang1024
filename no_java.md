@@ -23,6 +23,11 @@
   which provides fast C implementations of matrices, and pytorch, which have GPU
   implementations. Because Python is easier to use, more developers choose to develop
   libraries for Python, increasing its ease of usage (a positive feedback loop).
+* Python has a good documentation tool, Sphinx, which allows users to
+  easily understand and use libraries. As stated in [this StackOverflow post][so], good
+  documentation needs examples. Luckily, many Python packages have good examples. However,
+  JavaDoc, the Java documentation tool, simply generates docs of the methods of each
+  class. This makes it difficult to provide good examples.
 
 If you are in a course which teaches Java, I highly recommend you learn C++ and/or Python
 on the side so you finish the class with useful skills.
@@ -54,3 +59,5 @@ USACO.
 
 However, this is unlikely to change in the future, similar to how an API cannot be changed
 once many people start using it. The only solution is to self study beyond the AP CS curriculum.
+
+[so]: https://meta.stackoverflow.com/a/303885/16570071
