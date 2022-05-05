@@ -1,7 +1,5 @@
 ## Why Java is a mediocre programming language
 
-* Java is slow. In my tests, it runs 2-3x slower than C++. This is a big difference,
-  and can mean running for a whole workday rather than a few hours.
 * Java lacks useful features. There is no memory management, and there are no low level
   operations in Java. It is even missing unsigned integer types! Java copied most of
   C++ syntax, but designed the language to be high level. If the purpose and features
