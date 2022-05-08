@@ -15,7 +15,7 @@
 * I like GNU, Linux, and free projects (freedom).
 * I don't like Java. See [here](/no_java.md) for reasons.
 * I enjoy playing piano.
-* I use VIM keybindings when available.:wq
+* I use Neovim as my main editor.:wq
 * I use Ubuntu and Arch Linux.
 
 ## Other
