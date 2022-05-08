@@ -9,7 +9,7 @@
 
 ## About Me
 * I am a 10th grader in California, USA.
-* I enjoy coding, math, and contemplating the universe.
+* I enjoy coding, piano, math, and contemplating the universe.
 * I am currently a Silver competitor in the USACO.
 * I like C++, C, and Python.
 * I like GNU, Linux, and free projects (freedom).
