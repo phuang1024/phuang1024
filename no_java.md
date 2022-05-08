@@ -1,9 +1,11 @@
 ## Why Java is a mediocre programming language
 
-* Java lacks useful features. There is no memory management, and there are no low level
-  operations in Java. It is even missing unsigned integer types! Java copied most of
-  C++ syntax, but designed the language to be high level. If the purpose and features
-  don't match, the language will not succeed.
+* Java lacks useful features. The OOP system is very powerful, but because of the lack
+  of extra features, programming something is very difficult. On the other hand, Python
+  is slow, but has many features, such as C integration, list comprehension, and running
+  code dynamically, that makes the language superior. Java copied style and syntax from
+  C++, but designed the language to be high level. If the purpose and features don't
+  match, the language will not succeed.
 * Everything must be a class. A class defines the memory layout of an abstract concept,
   optionally with functions that are tied to the class (methods). If you need to group
   members together, use a namespace instead of a class to be clear about your purpose.
@@ -26,6 +28,10 @@
   documentation needs examples. Luckily, many Python packages have good examples. However,
   JavaDoc, the Java documentation tool, simply generates docs of the methods of each
   class. This makes it difficult to provide good examples.
+* Some people believe that Python is inferior because it depends on C and C++. Yes, it
+  is inferior if you don't use the language at all. The power of Python is in it's
+  flexibility, as described above. Compare two APIs in Java and Python, and see which
+  one is easier to use.
 
 If you are in a course which teaches Java, I highly recommend you learn C++ and/or Python
 on the side so you finish the class with useful skills.
