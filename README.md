@@ -16,7 +16,7 @@
 * I don't like Java. See [here](/no_java.md) for reasons.
 * I enjoy playing piano.
 * I use Neovim as my main editor.:wq
-* I use Ubuntu and Arch Linux.
+* I use Ubuntu.
 
 ## Other
 
