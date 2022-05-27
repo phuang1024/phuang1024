@@ -6,6 +6,7 @@
 * [PianoRay][pianoray], a piano performance visualizer.
 * [Shadowmap][shadowmap], a shadow map rendering engine.
 * [FFTerm][ffterm], a shell utility for viewing media in the terminal.
+* [Exploding Kittens][exkit], APCS final project with @The-Senate-I-Am and @PeaceOfPi.
 
 ## About Me
 * I am a 10th grader in California, USA.
@@ -26,5 +27,6 @@
 [pianoray]: https://github.com/phuang1024/pianoray
 [shadowmap]: https://github.com/phuang1024/shadowmap
 [ffterm]: https://github.com/phuang1024/ffterm
+[exkit]: https://github.com/phuang1024/exploding_kittens
 
 [gnu]: https://gnu.org
