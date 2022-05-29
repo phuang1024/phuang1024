@@ -18,11 +18,11 @@
   do some detailed planning of the class structure, and spend a lot of time managing
   the types. An alternative of this is Python, which is moderately fast, very flexible,
   and very easy to use to write a quick application.
-* Java does not have a lot of libraries or an installer. Python has pip, and anyone
-  can create libraries and publish them for the world. There are libraries like numpy,
-  which provides fast C implementations of matrices, and pytorch, which have GPU
-  implementations. Because Python is easier to use, more developers choose to develop
-  libraries for Python, increasing its ease of usage (a positive feedback loop).
+* Java does not have a lot of libraries. Python has pip, and anyone can create libraries
+  and publish them for the world. There are libraries like numpy, which provides fast C
+  implementations of matrices, and pytorch, which have GPU implementations. Because
+  Python is easier to use, more developers choose to develop libraries for Python,
+  increasing its ease of usage (a positive feedback loop).
 * Python has a good documentation tool, Sphinx, which allows users to
   easily understand and use libraries. As stated in [this StackOverflow post][so], good
   documentation needs examples. Luckily, many Python packages have good examples. However,
