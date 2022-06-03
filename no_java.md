@@ -35,6 +35,12 @@
   one is easier to use. Having water faucets in your house is worse than not if you don't
   use them because it involves drilling holes into walls. However, we still prefer
   having them. Why? This is left as an exercise to the reader.
+* The compiler does not allow some coding techniques, in the hope of reducing accidental
+  errors. One example is unreachable code, which is an error, not a warning! What if we
+  want to stop the last part of a function as a test debug by putting an early return
+  statement? We cannot do that, and we must comment the whole block, which takes a few
+  extra seconds, but more importantly, reduces the programmer's morale as they see the
+  flaws of the Java compiler.
 
 If you are in a course which teaches Java, I highly recommend you learn C++ and/or Python
 on the side so you finish the class with useful skills.
@@ -46,8 +52,8 @@ I don't know, but here are my guesses.
 * Java is an extremely organized language. As stated previously, this is so extreme that
   it makes the language very limited. However, it is useful for teaching concepts like
   OOP and good development habits.
-* Java is easy to set up. Modern code editors like VSCode have features that make Java code
-  easy to manage, and is good for beginner programmers.
+* Java is easy to set up and beginner friendly. Modern code editors like VSCode have
+  features that make Java code easy to manage, and is good for beginner programmers.
 * Some historical reason. Maybe Java seemed like a good choice when schools first decided
   what programming language they were going to use.
 
