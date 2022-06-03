@@ -32,7 +32,9 @@
 * Some people believe that Python is inferior because it depends on C and C++. Yes, it
   is inferior if you don't use the language at all. The power of Python is in it's
   flexibility, as described above. Compare two APIs in Java and Python, and see which
-  one is easier to use.
+  one is easier to use. Having water faucets in your house is worse than not if you don't
+  use them because it involves drilling holes into walls. However, we still prefer
+  having them. Why? This is left as an exercise to the reader.
 
 If you are in a course which teaches Java, I highly recommend you learn C++ and/or Python
 on the side so you finish the class with useful skills.
