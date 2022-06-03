@@ -27,7 +27,8 @@
   easily understand and use libraries. As stated in [this StackOverflow post][so], good
   documentation needs examples. Luckily, many Python packages have good examples. However,
   JavaDoc, the Java documentation tool, simply generates docs of the methods of each
-  class. This makes it difficult to provide good examples.
+  class. This makes it difficult to provide good examples in a way that is easy to follow
+  for someone new to a library.
 * Some people believe that Python is inferior because it depends on C and C++. Yes, it
   is inferior if you don't use the language at all. The power of Python is in it's
   flexibility, as described above. Compare two APIs in Java and Python, and see which
