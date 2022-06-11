@@ -13,8 +13,10 @@ Pieces I will practice in the future:
 
 * Ravel: Gaspard de la Nuit
 * Chopin: Ballade 1
-* Chopin: Nocturne Op. 9 No. 1
+* Chopin: Nocturne*
 * Liszt: Feux Follets
+* Liszt: Paganini/Liszt No. 3
+* Liszt: Paganini/Liszt No. 6
 
 Significant pieces that I have completed (may revisit in the future):
 
@@ -23,4 +25,5 @@ Significant pieces that I have completed (may revisit in the future):
 * Mozart: Piano Sonata No. 8
 * Bach: Prelude & Fugue No. 2
 * Liszt: Hungarian Rhapsody 2
+* Liszt: Mazeppa
 * Liszt: Un Sospiro
