@@ -16,7 +16,7 @@
 * I like GNU, Linux, and free projects (freedom).
 * I don't like Java. See [here](/no_java.md) for reasons.
 * I enjoy playing piano.
-* I use Neovim as my main editor.:wq
+* I use Neovim and Visual Studio Code.
 * I use Ubuntu.
 
 ## Other
