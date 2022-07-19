@@ -2,13 +2,8 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=phuang1024&theme=dark&layout=compact)
 
-## Cool Projects
-* [PianoRay][pianoray], a piano performance visualizer.
-* [Shadowmap][shadowmap], a shadow map rendering engine.
-* [FFTerm][ffterm], a shell utility for viewing media in the terminal.
-* [Exploding Kittens][exkit], APCS final project with @The-Senate-I-Am and @PeaceOfPi.
-
 ## About Me
+
 * I am a 10th grader in California, USA.
 * I enjoy coding, piano, math, and contemplating the universe.
 * I am currently a Silver competitor in the USACO.
@@ -21,12 +16,5 @@
 
 ## Other
 
-* Free software refers to freedom. Check out GNU's philosophy [here][gnu].
-* [Scarbo](https://youtu.be/8fcy2X06VH4?t=477), one of the best piano pieces.
-
-[pianoray]: https://github.com/phuang1024/pianoray
-[shadowmap]: https://github.com/phuang1024/shadowmap
-[ffterm]: https://github.com/phuang1024/ffterm
-[exkit]: https://github.com/phuang1024/exploding_kittens
-
-[gnu]: https://gnu.org
+* Free software refers to freedom. Check out GNU's philosophy [here](https://gnu.org).
+* [Gaspard de la Nuit](https://youtu.be/n_yIgrkSNzE), one of the best piano pieces.
