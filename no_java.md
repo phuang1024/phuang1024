@@ -1,23 +1,17 @@
 ## Why Java is a mediocre programming language
 
 * Java lacks useful features. The OOP system is very powerful, but because of the lack
-  of extra features, programming something is very difficult. On the other hand, Python
-  is slow, but has many features, such as C integration, list comprehension, and running
-  code dynamically, that makes the language superior. Java copied style and syntax from
-  C++, but designed the language to be high level. If the purpose and features don't
-  match, the language will not succeed.
-* Everything must be a class. A class defines the memory layout of an abstract concept,
-  optionally with functions that are tied to the class (methods). If you need to group
-  members together, use a namespace instead of a class to be clear about your purpose.
+  of extra features, programming something is very difficult because only a limited set
+  of tools are provided. On the other hand, Python is slow, but has many features, such
+  as C integration, list comprehension, and running code dynamically, that makes the
+  language superior due to the tools it provides. Java copied style and syntax from C++,
+  but designed the language to be high level. If the purpose and features don't match,
+  the language will not succeed. Strict static typing is a hindrance rather than an
+  optimization in high level languages.
+* Java forces object oriented programming. A class defines the memory layout of an abstract
+  concept, optionally with functions that are tied to the class (methods). If you need to
+  group members together, use a namespace instead of a class to be clear about your purpose.
   Depending on the implementation, this may even reduce overhead.
-* Java is not flexible. Some people use Java to make non speed critical programs.
-  In those cases, one thing most programmers are looking for is development speed,
-  or ease of usage. Java is not suitable for this because it requires static typing,
-  object oriented programming, and one class per file. If a programmer just wants to
-  write a simple script to do something, they must first make a whole directory for it,
-  do some detailed planning of the class structure, and spend a lot of time managing
-  the types. An alternative of this is Python, which is moderately fast, very flexible,
-  and very easy to use to write a quick application.
 * Java does not have a lot of libraries. Python has pip, and anyone can create libraries
   and publish them for the world. There are libraries like numpy, which provides fast C
   implementations of matrices, and pytorch, which have GPU implementations. Because
