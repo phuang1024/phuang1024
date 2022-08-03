@@ -7,7 +7,7 @@ I am practicing these pieces:
 
 * Beethoven: Sonata No. 17 Tempest, 3rd movement
 * Chopin: Ballade 4
-* Chopin: Nocturne Op. 27 No. 2
+* Prokofiev: Sonata 2, movement 2
 * Rachmaninoff: Etude Op. 39 No. 6 Little Red Riding Hood
 * Scarlatti: Sonata K.27 in b minor
 
@@ -24,6 +24,7 @@ Significant pieces that I have completed (may revisit in the future):
 
 * Chopstix
 * Chopin: Etude Op. 10 No. 5
+* Chopin: Nocturne Op. 27 No. 2
 * Mozart: Piano Sonata No. 8
 * Bach: Prelude & Fugue No. 2
 * Liszt: Hungarian Rhapsody 2
