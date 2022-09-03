@@ -48,6 +48,8 @@ I don't know, but here are my guesses.
   OOP and good development habits.
 * Java is easy to set up and beginner friendly. Modern code editors like VSCode have
   features that make Java code easy to manage, and is good for beginner programmers.
+* Java is simple. This allows students to start writing programs quickly instead of trying
+  to wrap their heads around pointers.
 * Some historical reason. Maybe Java seemed like a good choice when schools first decided
   what programming language they were going to use.
 
