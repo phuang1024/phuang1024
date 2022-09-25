@@ -2,8 +2,8 @@
 
 * Java lacks useful features. The OOP system is very powerful, but because of the lack
   of extra features, programming something is very difficult because only a limited set
-  of tools are provided. On the other hand, Python is slow, but has many features, such
-  as C integration, list comprehension, and running code dynamically, that makes the
+  of tools are provided. On the other hand, Python is slow but has many features, such
+  as C integration, list comprehension, and running code dynamically, which makes the
   language superior due to the tools it provides. Java copied style and syntax from C++,
   but designed the language to be high level. If the purpose and features don't match,
   the language will not succeed. Strict static typing is a hindrance rather than an
