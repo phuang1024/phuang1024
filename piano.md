@@ -7,6 +7,9 @@ I am practicing these pieces:
 
 * Beethoven: Sonata No. 17 Tempest, 3rd movement
 * Chopin: Ballade 4
+* Chopin: Nocturne Op. 48 No. 1
+* Chopin: Grand Valse Brilliante in Eb Major
+* Debussy: Reflets dans l'eau
 * Prokofiev: Sonata 2, movement 2
 * Rachmaninoff: Etude Op. 39 No. 6 Little Red Riding Hood
 * Scarlatti: Sonata K.27 in b minor
