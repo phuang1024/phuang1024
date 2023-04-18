@@ -6,12 +6,12 @@
 
 * I am a 11th grader in California, USA.
 * I enjoy coding, piano, math, and contemplating the universe.
-* I am currently a Silver competitor in the USACO.
-* I like C++, C, and Python.
+* I am currently a Gold competitor in the USACO.
+* I like Python and C++.
 * I like GNU, Linux, and free projects (freedom).
 * I don't like Java. See [here](/no_java.md) for reasons.
 * I enjoy playing piano.
-* I use Neovim and Visual Studio Code.
+* I use Neovim.
 * I use Ubuntu.
 
 ## Other
