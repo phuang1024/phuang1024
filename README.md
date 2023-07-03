@@ -11,7 +11,6 @@
 * I like GNU, Linux, and free projects (freedom).
 * I like Python and C++.
 * I don't like Java. See [here](/no_java.md) for reasons.
-* I enjoy playing piano.
 * I use Ubuntu and Neovim.
 
 ## Other
