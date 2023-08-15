@@ -4,7 +4,7 @@
 
 ## About Me
 
-* I am a 11th grader in California, USA.
+* I am a 12th grader in California, USA.
 * I enjoy coding, piano, math, and contemplating the universe.
 * I am a functionalist.
 * I am currently a Gold competitor in the USACO.
