@@ -6,7 +6,7 @@
 
 * I am a 12th grader in California, USA.
 * I enjoy coding, piano, math, and contemplating the universe.
-* I am a functionalist.
+* I am a functionalist (regarding philosophy of mind).
 * I am currently a Gold competitor in the USACO.
 * I like GNU, Linux, and free projects (freedom).
 * I like Python and C++.
