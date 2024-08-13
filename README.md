@@ -1,19 +1,17 @@
-# Hello
+Rhetorician of piano.
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=phuang1024&theme=dark&layout=compact)
+Sociologist of armchair.
 
-## About Me
+Functionalist of mind.
 
-* I am a 12th grader in California, USA.
-* I enjoy coding, piano, math, and contemplating the universe.
-* I am a functionalist (regarding philosophy of mind).
-* I am currently a Gold competitor in the USACO.
-* I like GNU, Linux, and free projects (freedom).
-* I like Python and C++.
-* I don't like Java. See [here](/no_java.md) for reasons.
-* I use Ubuntu and Neovim.
+Free software refers to freedom.
 
-## Other
+Sonata in B Minor, Liszt. The best piano piece.
 
-* Free software refers to freedom. Check out GNU's philosophy [here](https://gnu.org).
-* [Gaspard de la Nuit](https://youtu.be/n_yIgrkSNzE), one of the best piano pieces.
+The more I think about it, the more impossible it seems.
+So I guess the solution is to not think.
+
+You arrive at your destination, but there's nothing here.
+Perhaps the real treasure was the experiences you had along the way.
+
+You arrive at your destination, and *everything's here*.
